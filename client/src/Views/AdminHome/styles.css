@@ -1,0 +1,19 @@
+
+
+#carouselExampleCaptions {
+    /* height: 10px; */
+}
+
+#client-logos {
+    /* max-height: 100px; */
+    background-color: #cec49742;
+    padding: 40px;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+#client-logos img {
+    /* max-height: 100px; */
+    max-width: 200px;
+    max-height: 200px;
+}

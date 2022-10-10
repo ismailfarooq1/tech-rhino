@@ -1,0 +1,15 @@
+.links-footer {
+    color: white;
+    font-size: 15px;
+}
+
+.links-footer .nav-link {
+    color: white;
+    font-size: 15px;
+    /* transition: 4s; */
+}
+
+.links-footer .nav-link:hover {
+    color: gray;
+    /* font-size: 18px; */
+}

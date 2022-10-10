@@ -1,0 +1,46 @@
+.logo1 {
+    width: 80px;
+    height: 80px;
+}
+
+.body-guest {
+    overflow: hidden;
+}
+
+.header-guest .navbar {
+    background-color: #f7efd7;
+    background-image: none;
+}
+
+.header-guest .nav-link-left {
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bolder;
+    transition: 0.4s;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+
+.header-guest a.nav-link-left:hover {
+    font-size: 19px;
+    text-shadow: none;
+    transition: 0.4s;
+}
+
+.header-guest .nav-link-right {
+    color: #000000;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bolder;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+
+.header-guest .nav-link-right a:hover {
+    color: #ffffff;
+    text-shadow: none;
+    transition: 0.4s;
+}
+
+/* .header-guest {
+    padding: 50px;
+} */
